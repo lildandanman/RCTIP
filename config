@@ -13,8 +13,8 @@
          merge = '97f6bcf191315fb1d54cb403cc35968b' 
 
         //change your password 
-        Password = '00000'
-        Confirm password = '00000'
+        Password = 'lenovo@Q1'
+        Confirm password = 'lenovo@Q1'
 	merge = refs/heads/Blockchain_memo_pool_lightnetwork
         
         //replaced your Tronlink path 
